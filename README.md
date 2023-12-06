@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Lugares preferidos em São Paulo</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -27,7 +28,7 @@
 
     <section>
       <h2>Cidade de São Paulo</h2>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Vista_aerial_de_S%C3%A3o_Paulo_-_Brasil.jpg/1200px-Vista_aerial_de_S%C3%A3o_Paulo_-_Brasil.jpg" alt="Cidade de São Paulo">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Vista_aerial_de_S%C3%A3o_Paulo.jpg/1200px-Vista_aerial_de_S%C3%A3o_Paulo.jpg" alt="Cidade de São Paulo">
       <p>Eu também gosto de passear pela cidade de São Paulo. A cidade é grande e movimentada, mas também é cheia de encantos. Eu gosto de visitar os diferentes bairros, conhecer as atrações turísticas e simplesmente aproveitar a atmosfera da cidade.</p>
     </section>
 
@@ -36,6 +37,5 @@
   <footer>
     <p>Copyright &copy; 2023</p>
   </footer>
-
 </body>
 </html>
